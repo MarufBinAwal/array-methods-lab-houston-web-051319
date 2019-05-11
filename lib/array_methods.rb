@@ -15,7 +15,9 @@ def big_cats = ["tiger", "lion", "cougar", "cheetah"]
 
 end
 
-def using_first(array)
+def big_cats = ["tiger", "lion", "cougar", "cheetah"]
+    
+    big_cats.first
 
 end
 
