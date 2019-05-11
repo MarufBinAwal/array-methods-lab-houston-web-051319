@@ -27,6 +27,8 @@ def big_cats = ["tiger", "lion", "cougar", "cheetah"]
 
 end
 
-def using_size(array)
+def big_cats = ["tiger", "lion", "cougar", "cheetah"]
+    
+    big_cats.size
 
 end
