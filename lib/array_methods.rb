@@ -9,7 +9,9 @@ def big_cats = ["tiger", "lion", "cougar", "cheetah"]
 
 end
 
-def using_reverse(array)
+def big_cats = ["tiger", "lion", "cougar", "cheetah"]
+    
+    big_cats.reverse
 
 end
 
