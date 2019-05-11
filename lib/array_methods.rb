@@ -1,5 +1,5 @@
 def big_cat = ["tiger", "lion", "cougar", "cheetah"]
-  big_cat.include()
+  big_cat.include?("cheetah")
 end
 
 def using_sort(array)
