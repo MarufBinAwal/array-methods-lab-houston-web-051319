@@ -1,5 +1,5 @@
-def using_include(array, element)
-big_cat 
+def big_cat = ["tiger", "lion", "cougar", "cheetah"]
+  big_cat.include()
 end
 
 def using_sort(array)
