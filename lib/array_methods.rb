@@ -1,4 +1,5 @@
 def big_cat = ["tiger", "lion", "cougar", "cheetah"]
+  
   big_cat.include?("cheetah")
 end
 
