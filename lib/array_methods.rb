@@ -1,9 +1,11 @@
-def big_cat = ["tiger", "lion", "cougar", "cheetah"]
+def big_cats = ["tiger", "lion", "cougar", "cheetah"]
   
-  big_cat.include?("cheetah")
+  big_cats.include?("cheetah")
 end
 
-def using_sort(array)
+def big_cats = ["tiger", "lion", "cougar", "cheetah"]
+    
+    big_cats.sort
 
 end
 
