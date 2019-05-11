@@ -21,7 +21,9 @@ def big_cats = ["tiger", "lion", "cougar", "cheetah"]
 
 end
 
-def using_last(array)
+def big_cats = ["tiger", "lion", "cougar", "cheetah"]
+    
+    big_cats.last
 
 end
 
